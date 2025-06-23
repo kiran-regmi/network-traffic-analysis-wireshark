@@ -26,6 +26,7 @@ www.https://wireshark.org/
  
 ### Step 3 - Apply Filters in Wireshark
 * create a text file named " filters-used.txt
+
 ![Screen Shot 2025-06-23 at 4 33 00 PM](https://github.com/user-attachments/assets/b7aa19cd-3ddb-4737-b9f9-c4a783fa7856)
 
 ### Step 4 - Create Screenshots
@@ -34,6 +35,6 @@ www.https://wireshark.org/
 * Suspicious HTTP traffic
 * Malformed packets
 
-### Analysis Report
+### Step 5 - Analysis Report
   
   
