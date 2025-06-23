@@ -23,6 +23,9 @@ https://www.wireshark.org/
 * Download PCAP files from:
   * https://www.malware-traffic-analysis.net/
   * https://wiki.wireshark.org/SampleCaptures
+
+**File Used: 2025-06-21 -- Koi Loader/Koi Stealer infection** 
+ 
  
 ### Step 3 - Apply Filters in Wireshark
 * create a text file named " filters-used.txt
