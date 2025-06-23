@@ -16,7 +16,7 @@
 
 ### Step 1 - Install Wireshark
 Free, open-source tool to capture and analyze packets
-www.https://wireshark.org/
+https://www.wireshark.org/
 
 ### Step 2 - Download or Capture Network Traffic
 * Canputure your own using browser or local app
